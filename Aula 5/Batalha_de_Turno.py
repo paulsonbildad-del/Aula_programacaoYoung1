@@ -22,4 +22,4 @@ print("2-defesa")
 
 acao = input("escolha o valor da ação desejada: ")
 
-if ata
+if at
